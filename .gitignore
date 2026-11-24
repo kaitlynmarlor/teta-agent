@@ -1,4 +1,4 @@
 data/
 vectorstore_data/
 vectorstore_v2/
-
+.venv/
